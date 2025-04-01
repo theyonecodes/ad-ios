@@ -195,11 +195,6 @@ Distributed under the MIT License. See `LICENSE` file in this repository for mor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-theyonecodes - <!-- *** Update email address *** --> your_email@example.com
-
 Project Link: [https://github.com/theyonecodes/ad-ios](https://github.com/theyonecodes/ad-ios)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
