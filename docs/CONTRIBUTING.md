@@ -1,25 +1,12 @@
 # Contributing to Ad-ios
 
-We welcome contributions! If you want to help improve Ad-ios, please follow these guidelines.
+We welcome contributions to improve Ad-ios! Whether you're fixing bugs, adding features, or improving documentation, your help is appreciated.
 
 ## How to Contribute
 
-1. **Fork the Repository:**
-   - Click the "Fork" button on the top-right corner of the repository page.
+1. **Fork the Repository:**  
+   Click the "Fork" button at the top right of the [repository page](https://github.com/theyonecodes/ad-ios).
 
 2. **Create a Feature Branch:**
-   - Use a descriptive name for your branch:
-     ```bash
-     git checkout -b feature/your-feature-name
-     ```
-
-3. **Make Changes and Commit:**
-   - Make your changes locally.
-   - Write clear commit messages:
-     ```bash
-     git commit -m "Describe your changes here"
-     ```
-
-4. **Push to Your Fork:**
    ```bash
-   git push origin feature/your-feature-name
+   git checkout -b feature/your-feature-name
