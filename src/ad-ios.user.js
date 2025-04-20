@@ -5,6 +5,7 @@
 // @description  Bid farewell to online ads - starting with YouTube (improved with MutationObserver)
 // @match        https://www.youtube.com/*
 // @grant        none
+// @author       theyonecodes
 // ==/UserScript==
 
 (function () {
